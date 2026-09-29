@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66590713041",
+    "project_id": "labexam2-21a06",
+    "storage_bucket": "labexam2-21a06.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66590713041:android:963dcaf8a2497ef56411f0",
+        "android_client_info": {
+          "package_name": "com.example.lab_exam_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqG1H7qHEfCQmI-3zueOx7kh0wQr6mTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66590713041:android:420b809ce88dc7e36411f0",
+        "android_client_info": {
+          "package_name": "com.example.labexam_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRqG1H7qHEfCQmI-3zueOx7kh0wQr6mTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
